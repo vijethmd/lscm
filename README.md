@@ -14,3 +14,4 @@ Each page is a single self-contained HTML file: notes built only from that week'
 | 6 | L26–L30: SC uncertainty, SCOR and cycle/push-pull views, SC models, SC drivers | [week6-logistics-notes.html](week6-logistics-notes.html) |
 | 7 | L31–L36: SC impellers and value chain, strategic SCM, strategic fit, make or buy | [week7-logistics-notes.html](week7-logistics-notes.html) |
 | 8 | L37–L41: strategic sourcing, vendor rating, SC coordination, balanced scorecard and QDC indices | [week8-logistics-notes.html](week8-logistics-notes.html) |
+| 9 | L42–L44: distribution, distribution network designs, facility location (median, centre of gravity, factor rating) | [week9-logistics-notes.html](week9-logistics-notes.html) |
