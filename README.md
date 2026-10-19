@@ -16,3 +16,4 @@ Each page is a single self-contained HTML file: notes built only from that week'
 | 8 | L37–L41: strategic sourcing, vendor rating, SC coordination, balanced scorecard and QDC indices | [week8-logistics-notes.html](week8-logistics-notes.html) |
 | 9 | L42–L44: distribution, distribution network designs, facility location (median, centre of gravity, factor rating) | [week9-logistics-notes.html](week9-logistics-notes.html) |
 | 10 | L45–L51: demand forecasting, capacity planning, sequencing & scheduling, transportation management, transportation and assignment problems | [week10-logistics-notes.html](week10-logistics-notes.html) |
+| 11 | L52–L57: inventory management (JIT, MRP, EOQ, DSI, ABC, VMI), SC digitalization, smart SC, robust and resilient SC, 21st-century SC | [week11-logistics-notes.html](week11-logistics-notes.html) |
