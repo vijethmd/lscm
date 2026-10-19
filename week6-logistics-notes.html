@@ -654,7 +654,8 @@ footer { margin-top: 56px; font-size: 14px; color: var(--muted); border-top: 1px
       $("score").innerHTML = `Answered <b>${answered}/${n}</b> · results after you submit`;
       $("meter").innerHTML = `<i class="u" style="width:${answered / n * 100}%"></i>`;
     }
-    $("btn-wrong").disabled = !(show && wrong > 0);
+    const missed = st.mode === "test" && st.submitted ? n - right : wrong;
+    $("btn-wrong").disabled = !(show && missed > 0);
 
     // questions
     $("qlist").innerHTML = vs.map((x, i) => {
