@@ -11,3 +11,4 @@ Each page is a single self-contained HTML file: notes built only from that week'
 | 3 | L12–L17: reverse logistics, green logistics, lean logistics, Toyota Production System | [week3-logistics-notes.html](week3-logistics-notes.html) |
 | 4 | L18–L20: trends in logistics, modern logistics concepts, logistics vs SCM | [week4-logistics-notes.html](week4-logistics-notes.html) |
 | 5 | L21–L25: SCM fundamentals, manufacturing vs service SC, principle streams, SC network design | [week5-logistics-notes.html](week5-logistics-notes.html) |
+| 6 | L26–L30: SC uncertainty, SCOR and cycle/push-pull views, SC models, SC drivers | [week6-logistics-notes.html](week6-logistics-notes.html) |
