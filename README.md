@@ -6,4 +6,5 @@ Each page is a single self-contained HTML file: notes built only from that week'
 
 | Week | Lectures | Page |
 |---|---|---|
-| 1 | L1–L5: Intro to logistics, stakeholders, manufacturing logistics, storage & warehousing, LSPs | [week1-logistics-notes.html](week1-logistics-notes.html) |
+| 1 | L1–L5: intro to logistics, stakeholders, manufacturing logistics, storage & warehousing, LSPs | [week1-logistics-notes.html](week1-logistics-notes.html) |
+| 2 | L6–L11: e-logistics, international logistics, market entry, KPIs, quality & QC tools | [week2-logistics-notes.html](week2-logistics-notes.html) |
