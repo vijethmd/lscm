@@ -10,3 +10,4 @@ Each page is a single self-contained HTML file: notes built only from that week'
 | 2 | L6–L11: e-logistics, international logistics, market entry, KPIs, quality & QC tools | [week2-logistics-notes.html](week2-logistics-notes.html) |
 | 3 | L12–L17: reverse logistics, green logistics, lean logistics, Toyota Production System | [week3-logistics-notes.html](week3-logistics-notes.html) |
 | 4 | L18–L20: trends in logistics, modern logistics concepts, logistics vs SCM | [week4-logistics-notes.html](week4-logistics-notes.html) |
+| 5 | L21–L25: SCM fundamentals, manufacturing vs service SC, principle streams, SC network design | [week5-logistics-notes.html](week5-logistics-notes.html) |
