@@ -15,3 +15,4 @@ Each page is a single self-contained HTML file: notes built only from that week'
 | 7 | L31–L36: SC impellers and value chain, strategic SCM, strategic fit, make or buy | [week7-logistics-notes.html](week7-logistics-notes.html) |
 | 8 | L37–L41: strategic sourcing, vendor rating, SC coordination, balanced scorecard and QDC indices | [week8-logistics-notes.html](week8-logistics-notes.html) |
 | 9 | L42–L44: distribution, distribution network designs, facility location (median, centre of gravity, factor rating) | [week9-logistics-notes.html](week9-logistics-notes.html) |
+| 10 | L45–L51: demand forecasting, capacity planning, sequencing & scheduling, transportation management, transportation and assignment problems | [week10-logistics-notes.html](week10-logistics-notes.html) |
